@@ -1,5 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Ограничение интернет-зависимости: hosts](korrektsiya-privichek.md)
+* Коррекция привычек
+  * [Ограничение интернет-зависимости: hosts](korrektsiya-privichek.md)
+
+
 
