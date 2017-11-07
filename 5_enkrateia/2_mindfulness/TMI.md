@@ -3,6 +3,8 @@
 
 **Ссылки:** 
 
+- [Официальный сайт](http://themindilluminated.com/)
+- [Книга на amazon](https://www.amazon.com/Mind-Illuminated-Complete-Meditation-Integrating/dp/0990847705) и [goodreads](https://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0ahUKEwiSoamxoq3XAhWMIpoKHUrwDZcQFgg2MAI&url=https%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F25942786-the-mind-illuminated&usg=AOvVaw1tE63I9sqjKS6U3BlBUZo8): отзывы
 - Устаревшая версия конспекта в [telegra.ph](http://telegra.ph/The-Mind-Illuminated-rukovodstvo-po-meditacii-konspekt-07-28 "The Mind Illuminated, руководство по медитации: конспект")
 - [Тематический сабреддит](https://www.reddit.com/r/TheMindIlluminated/) и [общий медитационный](https://www.reddit.com/r/Meditation/)
 - [Альтернативный конспект](https://meditationguidetranslate.wordpress.com/category/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82/) и [инициатива по переводу](https://meditationguidetranslate.wordpress.com/%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/)
