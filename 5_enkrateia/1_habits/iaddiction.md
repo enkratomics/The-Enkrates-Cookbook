@@ -41,11 +41,14 @@ _Дваче- (и специфично политаче-) зависимость 
     * В Android файл hosts находится по следующему пути: `/system/etc/hosts`
     * Для того, чтобы поменять файл hosts, в Android необходимо сначала получить права root, также для некоторых устройств требуется снять защиту с системного раздела (s-off). При наличии прав сделать это в Android можно, например, с помощью текстового редактора, встроенного в Root Explorer.
     * _From: [android-manual.org](http://android-manual.org/level2/android-hosts-file)_
-    * Примечание: Chrome и другие браузеры с функцией «экономии трафика» обходят hosts для сайтов без https, поскольку грузят кэш страниц через сервера Google. 
+    * Примечание: Chrome и другие браузеры с функцией «экономии трафика» (не только мобильные) обходят hosts для сайтов без https. 
 * **iOS**
-    * C джейлбрейка аналогично маку и другим юникс-подобным системам.
-    * Без: no[t possible]. Apps can only modify files within the documents directory, within their own sandbox. This is for security, and ease of installing/uninstalling. So you could only do this on a jailbroken device.
-    * _From: [stackoverflow.com](https://stackoverflow.com/questions/4783923/can-i-edit-an-ipads-host-file)_
+    * C джейлбрейком: 
+        * Cydia – iFile
+        * В root (/) лежит файл hosts
+        * Редактировать приложением вроде Text Viewer
+        * *From: [daveden](https://daveden.wordpress.com/2013/01/16/how-to-edit-the-hosts-file-in-ios/amp/)
+    * Без: no[t possible]. Apps can only modify files within the documents directory, within their own sandbox. This is for security, and ease of installing/uninstalling. So you could only do this on a jailbroken device. * _From: [stackoverflow.com](https://stackoverflow.com/questions/4783923/can-i-edit-an-ipads-host-file)_
 * **В общем случае:** Умные люди рекомендуют действовать на уровне роутера.
 
 С первой попытки не получилось, мне некогда выяснять детали. На всякий случай вписал все варианты и в какой-то момент неугодные сайты были заблокированы на всех доступных девайсах. Финальная версия списка:
