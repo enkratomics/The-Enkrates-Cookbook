@@ -47,7 +47,7 @@ _Дваче- (и специфично политаче-) зависимость 
         * Cydia – iFile
         * В root (/) лежит файл hosts
         * Редактировать приложением вроде Text Viewer
-        * *From: [daveden](https://daveden.wordpress.com/2013/01/16/how-to-edit-the-hosts-file-in-ios/amp/)
+        * *From: [daveden](https://daveden.wordpress.com/2013/01/16/how-to-edit-the-hosts-file-in-ios/amp/)*
     * Без: no[t possible]. Apps can only modify files within the documents directory, within their own sandbox. This is for security, and ease of installing/uninstalling. So you could only do this on a jailbroken device. * _From: [stackoverflow.com](https://stackoverflow.com/questions/4783923/can-i-edit-an-ipads-host-file)_
 * **В общем случае:** Умные люди рекомендуют действовать на уровне роутера.
 
