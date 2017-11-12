@@ -33,21 +33,23 @@
 
 ## Рекомендуемые программы, сайты, сервисы и прочие инструменты. 
 
+- Хранение и накопление информации
+  1. [Microsoft OneNote](https://www.onenote.com/) – для хранения любого рода заметок и файлов в естественном иерархическом формате (записные книжки, группы вкладок, вкладки, страницы). На Windows – невероятно мощный и гибкий инструмент организации за счёт эффективных тегов, поиска, аудиозаписей с привязкой к печати, макросов, внутренних ссылок, коллаборации и в принципе огромного, при обманчиво казуальном интерфейсе, функционала (может заменить целый ряд инструментов); но и на других платформах неплох. В части работы с Web – конкурент Evernote. 
+  2. [Mendeley](https://www.mendeley.com/newsfeed/) – для хранения и управления научными статьями в pdf. 
+  3. [Everything](https://www.voidtools.com/ru-ru/) – удобный поиск по NTFS-томам.  
 - Самоорганизация
   1. [Toggl](https://toggl.com/) – для хронометража. Заменяется: [Hours](https://www.hourstimetracking.com/).
-  2. [Day One](http://dayoneapp.com/), дневник. Заменяется: [Rednotebook](http://rednotebook.sourceforge.net/), [Journey](https://2appstudio.com/journey/), [Penzu](https://penzu.com/), [jrnl](http://jrnl.sh/).
-  3. [Smartprogress](https://smartprogress.do) – для публичной постановки и выполнения целей. При грамотном использовании может быть полезен. Однако, [помни о риске публичности](https://www.ted.com/talks/derek_sivers_keep_your_goals_to_yourself?language=ru).
+  2. [Day One](http://dayoneapp.com/), дневник. Самая красивая и приятная программа такого рода, Но более не рекомендуется ввиду дорогой подписки. Заменяется: [Rednotebook](http://rednotebook.sourceforge.net/), [Journey](https://2appstudio.com/journey/), [Penzu](https://penzu.com/), [jrnl](http://jrnl.sh/), Onenote (c хорошо продуманной системой вкладок).
+  3. [Todoist](https://en.todoist.com/app?lang=en) или [Wunderlist](https://www.wunderlist.com/ru/) – органайзеры. В первом более логичный интерфейс и повторый событий, но нужна подписка для работы уведомлений.
+  4. [Smartprogress](https://smartprogress.do) – для публичной постановки и выполнения целей. При грамотном использовании может быть полезен. Однако, [помни о риске публичности](https://www.ted.com/talks/derek_sivers_keep_your_goals_to_yourself?language=ru).
 - Получение информации.
   1. [gen.lib.rus.ec](http://93.174.95.27/) – для добычи научной литературы. 
   2. [sci-hub.io](http://sci-hub.io/) (погуглите, если домен сменится) – для добычи публикаций из научных журналов. Также рекомендуется [@scihubot](telegram.me/scihubot) , бот для Телеграма, ищущий статьи по названию или doi.
-- Хранение и накопление информации
-  1. [Microsoft OneNote](https://www.onenote.com/) – для хранения любого рода заметок в естественном формате (записные книжки, группы вкладок, вкладки, страницы). На Windows невероятно мощный инструмент организации за счёт эффективных тегов, но и на других платформах неплох. 
-  2. [Mendeley](https://www.mendeley.com/newsfeed/) – для хранения и управления научными статьями в pdf. 
 - Производство контента
   1. [Visual Studio Code](https://code.visualstudio.com/) – для написания кода, Markdown-документов вроде этой книги и много чего ещё. Расширяемый плагинами, бесплатный, лёгкий, со встроенной поддержкой Github. Не является IDE, но может оказаться лучшим плейнтекстовым редактором на сегодня.
   2. [Anki](https://www.ankiapp.com/) – лучшая универсальная система интервального повторения, то есть средство для изучения чего угодно. 
-  3. [Scrivener](https://www.literatureandlatte.com/scrivener.php) – для работы над объёмными текстами.  
-- Саморазвитие. 
+  3. [Scrivener](https://www.literatureandlatte.com/scrivener.php) – для работы над объёмными текстами (литературой, в первую очередь).  
+- Саморазвитие 
   1. [Darebee](https://darebee.com/) – моднейшие физические тренировки. Также *J&J Official 7 Minute Workout* (версии для [iOS](https://itunes.apple.com/ru/app/j-j-official-7-minute-workout/id784797900?mt=8), [Android](https://play.google.com/store/apps/details?id=com.jnj.sevenminuteworkout&hl=ru)) – по отзывам, лучшая программа для знаменитого метода «7-минутной тренировки».
   2. [Headspace](https://www.headspace.com/) – вводная программа медитаций.
   3. [QuietMind - Meditation Timer](https://play.google.com/store/apps/details?id=ragone.io.quietmind&hl=ru) – для серьёзной практики медитаций по методу, описанному в The Mind Illuminated. 
