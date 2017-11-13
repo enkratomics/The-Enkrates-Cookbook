@@ -39,7 +39,7 @@
   3. [Everything](https://www.voidtools.com/ru-ru/) – удобный поиск по NTFS-томам.  
 - Самоорганизация
   1. [Toggl](https://toggl.com/) – для хронометража. Заменяется: [Hours](https://www.hourstimetracking.com/).
-  2. [Day One](http://dayoneapp.com/), дневник. Самая красивая и приятная программа такого рода, Но более не рекомендуется ввиду дорогой подписки. Заменяется: [Rednotebook](http://rednotebook.sourceforge.net/), [Journey](https://2appstudio.com/journey/), [Penzu](https://penzu.com/), [jrnl](http://jrnl.sh/), Onenote (c хорошо продуманной системой вкладок).
+  2. [Day One](http://dayoneapp.com/), дневник. Самая красивая и приятная программа такого рода, но более не рекомендуется ввиду дорогой подписки. Заменяется: [Rednotebook](http://rednotebook.sourceforge.net/), [Journey](https://2appstudio.com/journey/), [Penzu](https://penzu.com/), [jrnl](http://jrnl.sh/), Onenote (c хорошо продуманной системой вкладок).
   3. [Todoist](https://en.todoist.com/app?lang=en) или [Wunderlist](https://www.wunderlist.com/ru/) – органайзеры. В первом более логичный интерфейс и повторый событий, но нужна подписка для работы уведомлений.
   4. [Smartprogress](https://smartprogress.do) – для публичной постановки и выполнения целей. При грамотном использовании может быть полезен. Однако, [помни о риске публичности](https://www.ted.com/talks/derek_sivers_keep_your_goals_to_yourself?language=ru).
 - Получение информации.
@@ -53,3 +53,10 @@
   1. [Darebee](https://darebee.com/) – моднейшие физические тренировки. Также *J&J Official 7 Minute Workout* (версии для [iOS](https://itunes.apple.com/ru/app/j-j-official-7-minute-workout/id784797900?mt=8), [Android](https://play.google.com/store/apps/details?id=com.jnj.sevenminuteworkout&hl=ru)) – по отзывам, лучшая программа для знаменитого метода «7-минутной тренировки».
   2. [Headspace](https://www.headspace.com/) – вводная программа медитаций.
   3. [QuietMind - Meditation Timer](https://play.google.com/store/apps/details?id=ragone.io.quietmind&hl=ru) – для серьёзной практики медитаций по методу, описанному в The Mind Illuminated. 
+- Технические средства
+  1. [Chocolatey](https://chocolatey.org/) – удобный инструмент ускорения переустановок и обновлений бесплатного софта, «apt-get для windows». Использовать, например, так:
+     - cmd.exe as Admin
+     - `@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"`
+     - `choco install toggl todoist anki itunes steam vlc yandexdisk k-litecodecpackfull mpc-hc googlechrome dropbox firefox telegram slack discord skype foxitreader jpegview calibre mendeley audacity 7zip.install teamviewer totalcommander cpu-z gpu-z hwmonitor hwinfo speedfan msiafterburner transmission transgui AutoHotkey gitter visualstudiocode github jre8 -PackageParameters "/exclude:32" -y flashplayeractivex adobeair nodejs.install python pycharm-community`
+     - Для обновления или удаления заменить install на update или uninstall (логично). Список доступного: [community maintained packages](https://chocolatey.org/packages)
+     - Альтернатива для вашей бабушки: [Ninite](https://ninite.com). Здесь набор значительно меньше, зато актуальнее: скажем, на момент написания этого блока в Ninite имелся Google Backup&Sync.
