@@ -53,7 +53,7 @@
   1. [Darebee](https://darebee.com/) – моднейшие физические тренировки. Также *J&J Official 7 Minute Workout* (версии для [iOS](https://itunes.apple.com/ru/app/j-j-official-7-minute-workout/id784797900?mt=8), [Android](https://play.google.com/store/apps/details?id=com.jnj.sevenminuteworkout&hl=ru)) – по отзывам, лучшая программа для знаменитого метода «7-минутной тренировки».
   2. [Headspace](https://www.headspace.com/) – вводная программа медитаций.
   3. [QuietMind - Meditation Timer](https://play.google.com/store/apps/details?id=ragone.io.quietmind&hl=ru) – для серьёзной практики медитаций по методу, описанному в The Mind Illuminated. 
-- Технические средства[^1]
+- Технические средства [^1]
   1. [Chocolatey](https://chocolatey.org/) – инструмент ускорения переустановок и обновлений бесплатного софта, «apt-get для Windows». Использовать, например, так:
      - `cmd.exe` as Admin
      - `@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"`
@@ -64,4 +64,4 @@
   2. Другое: Google [Chrome](https://www.google.com/chrome/browser/desktop/index.html), [B&Sync](https://www.google.com/drive/download/backup-and-sync/); [Teamviewer](https://www.teamviewer.com/en/download/windows/); [YandexDisk](https://disk.yandex.com/download/#pc); [Adapter](https://macroplant.com/adapter)
 
 
-     [^1]: Да, я просто использую эту страницу для собственного удобства. 
+[^1]: Да, я просто использую эту страницу для собственного удобства. 
