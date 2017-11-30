@@ -55,7 +55,7 @@ _Дваче- (и специфично политаче-) зависимость 
 
 ```
 127.0.0.1 https://2ch.hk
-127.0.0.1 2ch.hk
+127.0.0.1 https://2ch.pm
 127.0.0.1 mangareader.net
 127.0.0.1 www.mangareader.net
 127.0.0.1 mangahere.co
