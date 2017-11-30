@@ -61,7 +61,7 @@
      - Для обновления или удаления заменить `install` на `upgrade` или `uninstall` соответственно. Список имён доступных пакетов: [Community maintained packages](https://chocolatey.org/packages)
      - Некоторые программы, в частности Хром, не устанавливаются успешно; также иногда необходимо вручную удалить старую/32-битную версию или остановить процессы.  
      - Альтернатива для вашей бабушки: [Ninite](https://ninite.com). Здесь набор значительно меньше, зато отчасти актуальнее: скажем, на момент написания этого блока в Ninite имелся Google Backup&Sync. Принцип работы тривиален: ставишь нужные галки, скачиваешь инсталлер, даёшь его бабушке. 
-  2. Другое: Google [Chrome](https://www.google.com/chrome/browser/desktop/index.html), [B&Sync](https://www.google.com/drive/download/backup-and-sync/); [Teamviewer](https://www.teamviewer.com/en/download/windows/); [YandexDisk](https://disk.yandex.com/download/#pc); [Adapter](https://macroplant.com/adapter); [Everything](https://www.voidtools.com/en-us/).
+  2. Другое: Google [Chrome](https://www.google.com/chrome/browser/desktop/index.html), [B&Sync](https://www.google.com/drive/download/backup-and-sync/); [Teamviewer](https://www.teamviewer.com/en/download/windows/); [Everything](https://www.voidtools.com/en-us/); [YandexDisk](https://disk.yandex.com/download/#pc); [Adapter](https://macroplant.com/adapter). Файл [Ninite на первые 5](/assets/Ninite.exe).
 
 
 [^1]: Да, я просто использую эту страницу для собственного удобства. 
